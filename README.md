@@ -1,7 +1,8 @@
 # 💫 About Me:
 A software engineer student, i love to learn and build something new, productive, innovative and stupid things.
+<img align="right" width="30%" src="https://i.pinimg.com/originals/17/a9/00/17a900d73f0a8091413037a6f8ffb5f1.gif">
 
-🌱 I’m currently learning ...
+🌱 I’m currently learning ... 
 
 Java, Python and C
 
@@ -9,10 +10,7 @@ Java, Python and C
 
 ✔ Ask me about anything.
 
-📫 Reach out to me at: froylanpd74@gmail.com
-
-![17a900d73f0a8091413037a6f8ffb5f1](https://github.com/user-attachments/assets/08aecf56-ac55-457d-9da2-9387aa68dc21)
-
+📫 Reach out to me at: froylanpd74@gmail.com  
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)

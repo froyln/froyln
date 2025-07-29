@@ -1,5 +1,5 @@
 # 💫 About Me:
-A junior software engineer student, i love to learn and build something new, productive, innovative and stupid things.
+A software engineer student, i love to learn and build something new, productive, innovative and stupid things.
 
 🌱 I’m currently learning ...
 Java.

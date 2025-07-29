@@ -2,9 +2,13 @@
 A software engineer student, i love to learn and build something new, productive, innovative and stupid things.
 
 🌱 I’m currently learning ...
+
 Java.
+
 👯 I’m looking forward to collaborate on open source projects.
+
 ✔ Ask me about anything.
+
 📫 Reach out to me at: froylanpd74@gmail.com
 
 

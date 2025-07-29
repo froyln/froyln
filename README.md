@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🎴 About Me:
 A software engineer student, i love to learn and build something new, productive, innovative and stupid things.
 <img align="right" width="30%" src="https://i.pinimg.com/originals/17/a9/00/17a900d73f0a8091413037a6f8ffb5f1.gif">
 

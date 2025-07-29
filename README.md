@@ -11,6 +11,7 @@ Java, Python and C
 
 📫 Reach out to me at: froylanpd74@gmail.com
 
+![17a900d73f0a8091413037a6f8ffb5f1](https://github.com/user-attachments/assets/08aecf56-ac55-457d-9da2-9387aa68dc21)
 
 
 # 💻 Tech Stack:

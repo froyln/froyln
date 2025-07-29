@@ -1,6 +1,6 @@
 # 🎴 About Me:
 A software engineer student, i love to learn and build something new, productive, innovative and stupid things.
-<img align="right" width="30%" src="https://media.tenor.com/68uhd4b3tI8AAAAj/black-cat.gif">
+<img align="right" width="20%" src="https://media.tenor.com/68uhd4b3tI8AAAAj/black-cat.gif">
 
 🌱 I’m currently learning ... 
 

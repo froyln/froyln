@@ -6,6 +6,10 @@ A software engineer student, i love to learn and build something new, productive
 
 -> Java, Python and C
 
+🖥️ My currently OS
+
+**Main PC:** -> [Windows 11](https://www.microsoft.com/es-es/windows/windows-11?r=1) and [Fedora](https://fedoraproject.org/es/) || **Laptop:** -> [Arch](https://archlinux.org)
+
 👯 I’m looking forward to collaborate on open source projects.
 
 ✔ Ask me about anything.

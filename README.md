@@ -4,7 +4,7 @@ A software engineer student, i love to learn and build something new, productive
 
 🌱 I’m currently learning ... 
 
--> Java, C#, Python and OS things
+-> Java, C#, Python and Linux things
 
 🖥️ My currently OS
 

@@ -7,9 +7,9 @@
 
 ## My currently OS
 
-Main PC and Laptop: -> [Arch](https://archlinux.org)
+-> Main PC and Laptop: [Arch](https://archlinux.org)
 
 ## ✔ Ask me about anything.
 
-Reach out to me at: froylanpd74@gmail.com  
+-> Reach out to me at: froylanpd74@gmail.com  
 

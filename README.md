@@ -3,7 +3,7 @@
 
 ## I’m currently learning ... 
 
--> Linux things and C++
+-> Linux things and React
 
 ## My currently OS
 
